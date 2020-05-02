@@ -1,0 +1,6 @@
+D:\Repositories\Portafolio_FDGB_00014419_POO-0120\semana06_ejercicio02\semana06_ejercicio02\bin\Debug\semana06_ejercicio02.exe
+D:\Repositories\Portafolio_FDGB_00014419_POO-0120\semana06_ejercicio02\semana06_ejercicio02\bin\Debug\semana06_ejercicio02.pdb
+D:\Repositories\Portafolio_FDGB_00014419_POO-0120\semana06_ejercicio02\semana06_ejercicio02\obj\Debug\semana06_ejercicio02.csprojAssemblyReference.cache
+D:\Repositories\Portafolio_FDGB_00014419_POO-0120\semana06_ejercicio02\semana06_ejercicio02\obj\Debug\semana06_ejercicio02.csproj.CoreCompileInputs.cache
+D:\Repositories\Portafolio_FDGB_00014419_POO-0120\semana06_ejercicio02\semana06_ejercicio02\obj\Debug\semana06_ejercicio02.exe
+D:\Repositories\Portafolio_FDGB_00014419_POO-0120\semana06_ejercicio02\semana06_ejercicio02\obj\Debug\semana06_ejercicio02.pdb

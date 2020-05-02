@@ -4,9 +4,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
+    ArrayList<Autor> lista_autores = new ArrayList<>();
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        ArrayList<Autor> lista_autores = new ArrayList<>();
+
         ArrayList<Libro> lista_libros = new ArrayList<>();
         byte option=0;
 
