@@ -41,11 +41,10 @@ namespace pre_segundo_parcial
             try
             {
                 int idUsuario = idC;
-                comboBox1.ValueMember="idUsuario";
-                int idProducto = Convert.ToInt32(comboBox1.SelectedItem);
+                Producto p = (Producto) comboBox1.SelectedItem;
+                int idProducto = Convert.ToInt32(p.idProducto);
                 int cantidad = Convert.ToInt32(textBox1.ToString());
-                comboBox1.ValueMember="precio";
-                double precio = Convert.ToDouble(comboBox1.SelectedItem)*cantidad;
+                double precio = p.precio*cantidad;
                 string nonquery = $"INSERT INTO PEDIDO (idUsuario,idProducto, cantidadP, precio) VALUES ({idUsuario},{idProducto},{cantidad},{precio})";
                 ConnectionBD.realizarAccion(nonquery);
             }
