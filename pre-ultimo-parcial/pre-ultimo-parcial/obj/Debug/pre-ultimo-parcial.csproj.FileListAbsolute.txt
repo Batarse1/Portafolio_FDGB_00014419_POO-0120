@@ -1,0 +1,6 @@
+C:\Repositories\Portafolio_FDGB_00014419_POO-0120\pre-ultimo-parcial\pre-ultimo-parcial\bin\Debug\pre_ultimo_parcial.exe
+C:\Repositories\Portafolio_FDGB_00014419_POO-0120\pre-ultimo-parcial\pre-ultimo-parcial\bin\Debug\pre_ultimo_parcial.pdb
+C:\Repositories\Portafolio_FDGB_00014419_POO-0120\pre-ultimo-parcial\pre-ultimo-parcial\obj\Debug\pre-ultimo-parcial.csprojAssemblyReference.cache
+C:\Repositories\Portafolio_FDGB_00014419_POO-0120\pre-ultimo-parcial\pre-ultimo-parcial\obj\Debug\pre-ultimo-parcial.csproj.CoreCompileInputs.cache
+C:\Repositories\Portafolio_FDGB_00014419_POO-0120\pre-ultimo-parcial\pre-ultimo-parcial\obj\Debug\pre_ultimo_parcial.exe
+C:\Repositories\Portafolio_FDGB_00014419_POO-0120\pre-ultimo-parcial\pre-ultimo-parcial\obj\Debug\pre_ultimo_parcial.pdb
